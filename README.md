@@ -24,12 +24,13 @@ Focado em cibersegurança, redes e infraestrutura, com experiência prática em 
 
 ## 📌 Projetos em destaque
 
-* 🛡️ Mini SOC – Threat Detection Dashboard
+* 🛡️ Mini SIEM – Threat Detection Dashboard
 * 🔍 Laboratório Wireshark
 * ⚔️ Pentest com Nmap
-* 💻 Mini Siem (Python)
+* 💻 Rule Based Log Analyzer
 
 ## 📫 Contato
 
 * LinkedIn: (linkedin.com/in/jhonatan-hermenegildo-ribeiro-151184268/)
 * Email: (ejhonatan29@gmail.com)
+* https://portfolio-ribeiro-jhonatan.vercel.app/
