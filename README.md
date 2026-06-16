@@ -31,6 +31,6 @@ Focado em cibersegurança, redes e infraestrutura, com experiência prática em 
 
 ## 📫 Contato
 
-* LinkedIn: (linkedin.com/in/jhonatan-hermenegildo-ribeiro-151184268/)
+* LinkedIn: https://www.linkedin.com/in/jhonatan-hermenegildo-ribeiro-151184268/
 * Email: (ejhonatan29@gmail.com)
 * Portfolio: https://portfolio-ribeiro-jhonatan.vercel.app/
